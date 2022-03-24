@@ -19,7 +19,7 @@ Add API token:
 Install dependencies:
 
 ```bash
-npm i
+npm install
 ```
 
 Run: 
