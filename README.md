@@ -12,6 +12,9 @@ I chose the environment and stack because of the following reasons
 
 
 ## Setup
+Add API token:
+- src/components/content/EditContent.js (line 72)
+- src/pages/search/Search.js (line 71)
 
 Install dependencies:
 
