@@ -1,4 +1,4 @@
-# Shortcut APP assignment
+# Shortcut App assignment
 
 This project includes a LitElement boilerplate and ui5 standard web components.
 
